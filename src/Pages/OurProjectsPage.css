@@ -1,0 +1,46 @@
+#our-projects-page {
+  height: 300vh;
+  border-bottom: 1.5px solid rgba(0, 0, 0, 0.1);
+}
+
+#opp-title {
+  font-size: 2.5vw;
+  font-weight: 500;
+  height: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#opp-border {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 2.5%;
+}
+
+.opp-line {
+  border: 0.1px solid gold;
+  width: 35%;
+  margin: 0 4%;
+}
+
+.opp-dot {
+  border: 2px solid gold;
+  border-radius: 50%;
+}
+
+#opp-img-container {
+  height: 92.5%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+#opp-img-container img {
+  width: 45%;
+  height: auto;
+  margin: 2%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

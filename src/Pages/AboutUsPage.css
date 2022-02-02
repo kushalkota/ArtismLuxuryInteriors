@@ -1,0 +1,27 @@
+#about-us-page {
+  height: 250vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#about-us-page img {
+  width: 100%;
+  height: auto;
+}
+
+#about-us-page h1 {
+  border-bottom: 2px solid gold;
+  padding: 1%;
+  font-size: 3vw;
+  color: #222222;
+}
+
+#about-us-page p {
+  font-size: 1.5vw;
+  color: #222222;
+  width: 70%;
+  text-align: justify;
+  margin-bottom: 5%;
+}

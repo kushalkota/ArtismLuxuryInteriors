@@ -1,0 +1,14 @@
+#carousel-body img {
+  display: block;
+  width: 20vw;
+  height: auto;
+}
+
+#carousel-body {
+  border-top: 1.5px solid gold;
+  padding: 5% 0;
+}
+
+.owl-dots {
+  padding: 25px 0;
+}
