@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/ArtismLuxuryInteriors/static/css/main.fb14eade.css",
+    "main.js": "/ArtismLuxuryInteriors/static/js/main.02a8fb89.js",
+    "static/media/opp1.jpg": "/ArtismLuxuryInteriors/static/media/opp1.4ca1c3e51b5266f13cdf.jpg",
+    "static/media/about-us.jpg": "/ArtismLuxuryInteriors/static/media/about-us.073be6de41a680cd1b8f.jpg",
+    "static/media/opp6.jpg": "/ArtismLuxuryInteriors/static/media/opp6.3e93f2caaef3808b14a2.jpg",
+    "static/media/opp2.jpg": "/ArtismLuxuryInteriors/static/media/opp2.fcfa3649f0b9517595f1.jpg",
+    "static/media/opp5.jpg": "/ArtismLuxuryInteriors/static/media/opp5.1cf6be9c1c5b5b235030.jpg",
+    "static/media/opp4.jpg": "/ArtismLuxuryInteriors/static/media/opp4.269927bfc5cd77d927e9.jpg",
+    "static/media/opp3.jpg": "/ArtismLuxuryInteriors/static/media/opp3.4b65b575683df6c8aad9.jpg",
+    "static/media/second-icon.png": "/ArtismLuxuryInteriors/static/media/second-icon.23317edd4ec08f66d87d.png",
+    "static/media/first-icon.png": "/ArtismLuxuryInteriors/static/media/first-icon.066ca9f8e1fa033ba5eb.png",
+    "static/media/op-img-4.jpg": "/ArtismLuxuryInteriors/static/media/op-img-4.af0d1b3e65199d4db357.jpg",
+    "static/media/offer-icon4.png": "/ArtismLuxuryInteriors/static/media/offer-icon4.6a2d48b991bf9fe8cd08.png",
+    "static/media/op-img-1.jpg": "/ArtismLuxuryInteriors/static/media/op-img-1.65369a9de5ec77608307.jpg",
+    "static/media/op-img-3.jpg": "/ArtismLuxuryInteriors/static/media/op-img-3.06d6b355817217593ae2.jpg",
+    "static/media/ArtismLuxuryInteriors.png": "/ArtismLuxuryInteriors/static/media/ArtismLuxuryInteriors.011eb2d5f6a402a8d9f4.png",
+    "static/media/third-icon.png": "/ArtismLuxuryInteriors/static/media/third-icon.3a0d92f4fa4a486111e4.png",
+    "static/media/offer-icon2.png": "/ArtismLuxuryInteriors/static/media/offer-icon2.814820a0118e343ffe64.png",
+    "static/media/offer-icon3.png": "/ArtismLuxuryInteriors/static/media/offer-icon3.0d52f033e93ee3748ac1.png",
+    "static/media/op-img-2.jpg": "/ArtismLuxuryInteriors/static/media/op-img-2.3665e94a3c872a48370d.jpg",
+    "static/media/offer-icon1.png": "/ArtismLuxuryInteriors/static/media/offer-icon1.7fdc9a58275c31babe6b.png",
+    "static/media/c6.png": "/ArtismLuxuryInteriors/static/media/c6.b0bce5a69e967afd5c20.png",
+    "static/media/c9.png": "/ArtismLuxuryInteriors/static/media/c9.04315d619ad981c098b5.png",
+    "static/media/c3.png": "/ArtismLuxuryInteriors/static/media/c3.d45210b36cb8675b2cd1.png",
+    "static/media/facebook.png": "/ArtismLuxuryInteriors/static/media/facebook.07f59a5924e7121127ac.png",
+    "static/media/linkedin.png": "/ArtismLuxuryInteriors/static/media/linkedin.6d0340be033505e80047.png",
+    "static/media/c2.png": "/ArtismLuxuryInteriors/static/media/c2.599ac0a7ede4d20fca32.png",
+    "static/media/c10.png": "/ArtismLuxuryInteriors/static/media/c10.a31b062bd123f2c9d047.png",
+    "index.html": "/ArtismLuxuryInteriors/index.html",
+    "main.fb14eade.css.map": "/ArtismLuxuryInteriors/static/css/main.fb14eade.css.map",
+    "main.02a8fb89.js.map": "/ArtismLuxuryInteriors/static/js/main.02a8fb89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb14eade.css",
+    "static/js/main.02a8fb89.js"
+  ]
+}
